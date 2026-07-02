@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
- <a href="https://discord.com/users/1195760072068972577" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.com/users/363841703821574144" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/Swenzyim" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31qc47ahcbbjmf6qw4if2cd23cjy?si=be5d491e459e4092" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   
@@ -12,7 +12,7 @@
 <samp>
 • Let me introduce myself, I'm Swenzy. I'm 18 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
 
-• You Should Come By [Here](https://discord.gg/njs) <br />
+• You Should Come By [Here](https://discord.gg/sql) <br />
 • My [Website](https://swenzy.xyz) <br />
 
 </samp>
